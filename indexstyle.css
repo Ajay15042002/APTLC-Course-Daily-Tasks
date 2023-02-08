@@ -1,0 +1,32 @@
+h2 {
+	background-color: yellow;
+	font-weight: bold;
+
+}
+
+h1 {
+	background-color: gray;
+}
+
+#pic {
+	width: 400px;
+	height: 300px;
+	float: right;
+	border: 2px solid gray;
+}
+
+#pho {
+	width: 90px;
+	height: 70px;
+}
+
+#dra {
+	width: 90;
+	height: 120px;
+	float: right;
+	border: 2px solid black;
+}
+
+h3 {
+	background-color: rgb(112, 231, 38);
+}
